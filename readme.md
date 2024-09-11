@@ -8,8 +8,6 @@
 
 ###### <p align="center"> *TeleDDoSBot*
 
-  <br>
-
 <p align="center"><img src="#"></p>
 
 ###### <p align="center">A Python-based Telegram bot designed for educational purposes to simulate load testing on a specified IP address and port. The bot includes commands for starting and stopping attacks, as well as managing authorized users
