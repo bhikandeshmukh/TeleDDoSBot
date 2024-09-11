@@ -1,11 +1,7 @@
-
-<p align=center>
-  <img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg"></p>
-
 <p align=center>
   <a href="https://www.instagram.com/bhikan_deshmukh"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
   </p>
-
+  
 ###### <p align="center"> *TeleDDoSBot*
 
 <p align="center"><img src="#"></p>
