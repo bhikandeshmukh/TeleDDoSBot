@@ -8,7 +8,7 @@ from telegram.ext import Application, CommandHandler, ContextTypes
 from concurrent.futures import ThreadPoolExecutor
 
 # Constants
-TELEGRAM_BOT_TOKEN = '7188314998:AAHBEQ4qyEF8t_B8dsbZ-BZIcVoNFTqevFU'
+TELEGRAM_BOT_TOKEN = 'Token' #Replace Your Telegram Bot Token Here
 ADMIN_USER_IDS = {959151693}  # Replace with actual admin user IDs
 AUTHORIZED_USERS_FILE = 'authorized_users.json'
 MAX_THREADS = 500
